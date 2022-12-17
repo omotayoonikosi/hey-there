@@ -1,3 +1,3 @@
 # What happen to Wednesday
 
-Somthing is wrong
+Somthing is right
